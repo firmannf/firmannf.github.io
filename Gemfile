@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+<<<<<<< HEAD
 ruby RUBY_VERSION
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -22,3 +23,12 @@ gem "minima", "~> 2.0"
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
 end
+=======
+
+gem "json"
+gem "jekyll"
+gem "jekyll-sitemap"
+gem "jekyll-feed"
+gem "jekyll-paginate"
+gem "jekyll-gist"
+>>>>>>> 4a86244834ff922699d111807b3b9b7bc28ca957
