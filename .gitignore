@@ -1,8 +1,4 @@
 _site
-<<<<<<< HEAD
-.sass-cache
-.jekyll-metadata
-=======
 .DS_Store
 *.sublime-project
 *.sublime-workspace
@@ -11,4 +7,3 @@ node_modules
 Gemfile.lock
 .sass-cache
 .jekyll-metadata
->>>>>>> 4a86244834ff922699d111807b3b9b7bc28ca957
