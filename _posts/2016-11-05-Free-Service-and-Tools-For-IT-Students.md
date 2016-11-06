@@ -13,13 +13,13 @@ As IT student, Sometime we face a problem about paid services and tools and the 
 
 ## Microsoft Imagine
 <figure>
-	<a href="http://firmannf/github.io/images/Imagine.png"><img src="http://firmannf/github.io/images/Imagine.png" alt=""></a>
+	<a href="http://firmannf.github.io/images/Imagine.png"><img src="http://firmannf.github.io/images/Imagine.png" alt=""></a>
 </figure>
 This program is created by Microsoft. In the past the program's name is **Microsoft DreamSpark**. This program give you access to some Microsoft product, such as Visual Studio, Microsoft Azure, Xamarin, and many more. For further information, you can visit <a href="https://imagine.microsoft.com" target="_blank">`https://imagine.microsoft.com`</a>
 
 ## Github Student Pack
 <figure>
-	<a href="http://firmannf/github.io/images/Github.png"><img src="http://firmannf/github.io/images/Github.png" alt=""></a>
+	<a href="http://firmannf.github.io/images/Github.png"><img src="http://firmannf.github.io/images/Github.png" alt=""></a>
 </figure>
 Github collaborates with their partners and give you access to some Github and their partners tools and services. You can get unlimited private repo in Github, .me domain, $50 credit Digital Ocean, and many more. Github's goal for making this program is very awesome, that is
 
@@ -29,7 +29,7 @@ Very awesome, right? so just visit the Github Education Page in <a href="https:/
 
 ## Jetbrains Student Program
 <figure>
-	<a href="http://firmannf/github.io/images/Jetbrains.png"><img src="http://firmannf/github.io/images/Jetbrains.png" alt=""></a>
+	<a href="http://firmannf.github.io/images/Jetbrains.png"><img src="http://firmannf.github.io/images/Jetbrains.png" alt=""></a>
 </figure>
 Need an IDE for Java, PHP, Ruby, etc. ? You will interested with this Jetbrains program. Jetbrains give you access to their IDE products, like Intellij, CLion, PHPStorm, and many more. just visit <a href="https://www.jetbrains.com/student/" target="_blank">`https://www.jetbrains.com/student/`</a> to get yours.
 
