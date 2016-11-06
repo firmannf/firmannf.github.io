@@ -14,11 +14,11 @@ owner:
   bio:            ""
   email:          firmannizammudin@email.com
   # Social networking links used in footer. Update and remove as you like.
-  facebook:       https://www.facebook.com/firman.nizammudin
-  github:         https://github.com/firmannf
-  linkedin:       https://id.linkedin.com/in/firman-nizammudin-fakhrul-87b242a0
+  facebook:       firman.nizammudin
+  github:         firmannf
+  linkedin:       firman-nizammudin-fakhrul-87b242a0
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    https://plus.google.com/+FirmanNizammudin
+  google_plus:    +FirmanNizammudin
 
 # Background image to be tiled on all pages
 background: 
