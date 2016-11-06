@@ -2,7 +2,7 @@
 layout: post
 title: "Free Service and Tools for IT Students"
 description: "A list of free service and tools that can be "
-tags: [Android, Android studio]
+tags: [Student, Info]
 comments: true
 image:
   feature: girl-with-laptop.jpg
