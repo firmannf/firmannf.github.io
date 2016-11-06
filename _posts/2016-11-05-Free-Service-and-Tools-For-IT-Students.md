@@ -8,7 +8,7 @@ image:
   feature: girl-with-laptop.jpg
 ---
 
-As IT student, Sometime we face a problem about paid services and tools and the price is not suitable for student. But don't worry, I have some information about the program that can give you a free services and tools. you just need an email with your campus domain and then just give it a try.
+As IT student, Sometime we face a problem about paid services and tools and the price is not suitable for student. But don't worry, I have some information about the program that can give you free services and tools. you just need an email with your campus domain and then just give it a try.
 **So, check the list below**.
 
 ## Microsoft Imagine
@@ -31,7 +31,7 @@ Very awesome, right? so just visit the Github Education Page in <a href="https:/
 <figure>
 	<a href="http://firmannf.github.io/images/Jetbrains.png"><img src="http://firmannf.github.io/images/Jetbrains.png" alt=""></a>
 </figure>
-Need an IDE for Java, PHP, Ruby, etc. ? You will interested with this Jetbrains program. Jetbrains give you access to their IDE products, like Intellij, CLion, PHPStorm, and many more. just visit <a href="https://www.jetbrains.com/student/" target="_blank">`https://www.jetbrains.com/student/`</a> to get yours.
+if you need IDE for Java, PHP, Ruby, etc. you will interested with this Jetbrains program. Jetbrains give you access to their IDE products, like Intellij, CLion, PHPStorm, and many more. just visit <a href="https://www.jetbrains.com/student/" target="_blank">`https://www.jetbrains.com/student/`</a> to get yours.
 
 ## And then
 There are some program that can give you a sensation of paid tools and services. If you have some info about other programs, you can tell me in the comment box.
