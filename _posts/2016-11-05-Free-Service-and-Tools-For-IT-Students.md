@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Free Service and Tools for IT Students"
-description: "A list of free service and tools that can be "
+description: "A list of free service and tools that can be helpful for IT Students"
 tags: [Student, Info]
 comments: true
 image:
