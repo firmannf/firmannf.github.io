@@ -8,7 +8,7 @@ image:
   feature: girl-with-laptop.jpg
 ---
 
-As IT student, Sometime we face a problem about paid services and tools and the price is not suitable for student. But don't worry, I have some information about the program that can give you free services and tools. you just need an email with your campus domain and then just give it a try.
+As IT student, Sometime we face a problem about paid services and tools and the price is not suitable for student. But don't worry, I have some information about the program that can give you free services and tools. you just need an email with your campus domain <!-- more --> and then just give it a try.
 **So, check the list below**.
 
 ## Microsoft Imagine
