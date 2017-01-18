@@ -2,7 +2,7 @@
 layout: post
 title: "MVP Template For Android Studio"
 description: "A template in Android Studio that let you create an activity that uses a MVP pattern"
-tags: [Android, Android studio]
+tags: [Android, Android studio, Java]
 comments: true
 image:
   feature: mvp-pattern.jpg
