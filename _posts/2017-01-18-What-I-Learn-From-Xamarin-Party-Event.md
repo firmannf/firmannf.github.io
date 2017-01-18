@@ -5,9 +5,9 @@ description: "A story that I want to share after attending Xamarin Party in Band
 tags: [Android, Xamarin, C#]
 comments: true
 image:
-  feature: Xamarin-logo.jpg
-  credit: Wikimedia Commons
-  creditlink: https://commons.wikimedia.org/wiki/File:Xamarin-logo.svg
+  feature: xamarin-party.jpg
+  credit: Dicoding
+  creditlink: https://limaapril.wordpress.com/2016/12/21/bandung-developer-day-5/
 ---
 
 ### Bandung Developer Day #5
