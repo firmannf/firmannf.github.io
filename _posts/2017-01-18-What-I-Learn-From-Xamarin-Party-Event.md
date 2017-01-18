@@ -45,7 +45,7 @@ There is 2 types of Xamarin, Xamarin Classic and Xamarin Forms. The differents a
   When you should use Xamarin Forms ?
   
   * You will build apps that has not many platform API specific
-  * if you want to code once (C# and XAML), run everywhere
+  * If you want to code once (C# and XAML), run everywhere
 
 ### PCL Vs Shared Project
 
