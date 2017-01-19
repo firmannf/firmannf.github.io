@@ -11,7 +11,7 @@ image:
 ---
 
 ### Bandung Developer Day #5
-Bandung developer day is an event for developers in Bandung. The purpose of this event is to share new knowledge for developers. In 20 Desember 2016, Fifth event of Bandung developer day was held. the topic is `Introduction to Xamarin`. <!-- more --> The speakers is Puja Pramudya and Albilaga from Radya Labs. There are 2 sessions, first session is Puja's stage to introducing Xamarin to the attendees and second session is workshop session delivered by Albilaga. We were creating CRM apps for workshop session.
+Bandung developer day is an event for developers in Bandung. The purpose of this event is to share new knowledge for developers. In 20 Desember 2016, Fifth event of Bandung developer day was held. the topic is `Introduction to Xamarin`. <!-- more --> The speakers are Puja Pramudya and Albilaga from Radya Labs. There are 2 sessions, first session is Puja's stage to introducing Xamarin to the attendees and second session is workshop session delivered by Albilaga. We were creating CRM apps for workshop session.
 
 ### What is Xamarin ?
 Xamarin is a set of tools for cross-platform development (Android, iOS, Windows) and the development language is C#.
@@ -21,7 +21,7 @@ There is 2 types of Xamarin, Xamarin Classic and Xamarin Forms. The differents a
 
 * `Xamarin Classic`
 
-  Using C# as logic languange but in interface language Xamarin Classic uses the platforms language, Android is using XML, iOS is using story board, and Windows is using XAML.
+  Using C# as logic languange but Xamarin Classic uses the platform specific language for the interface. Android is using XML, iOS is using story board, and Windows is using XAML.
   <center>
     <figure>
       <a href="{{ site.url }}/images/xamarin-classic-figure.png"><img src="{{ site.url }}/images/xamarin-classic-figure.png" alt=""></a>
@@ -35,7 +35,7 @@ There is 2 types of Xamarin, Xamarin Classic and Xamarin Forms. The differents a
 
 * `Xamarin Forms`
 
-  Using C# as logic languange and using XAML for interface language. Xamarin Forms already has pretty much widget supported.
+  Using C# as logic languange and using XAML for the interface. Xamarin Forms already has pretty much widget supported.
   <center>
     <figure>
       <a href="{{ site.url }}/images/xamarin-forms-figure.png"><img src="{{ site.url }}/images/xamarin-forms-figure.png" alt=""></a>
