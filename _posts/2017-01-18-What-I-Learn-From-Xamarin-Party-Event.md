@@ -28,6 +28,7 @@ There is 2 types of Xamarin, Xamarin Classic and Xamarin Forms. The differents a
   </center>
 
   When you should use Xamarin Classic ?
+  
   * You will build apps that has many platform API specific
   * Custom UI is number one
 
@@ -40,6 +41,7 @@ There is 2 types of Xamarin, Xamarin Classic and Xamarin Forms. The differents a
   </center>
 
   When you should use Xamarin Forms ?
+
   * You will build apps that has not many platform API specific
   * If you want to code once (C# and XAML), run everywhere
 
