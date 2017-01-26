@@ -17,7 +17,7 @@ Bandung developer day is an event for developers in Bandung. The purpose of this
 Xamarin is a set of tools for cross-platform development (Android, iOS, Windows) and the development language is C#.
 
 ### Xamarin Classic Vs Xamarin Forms
-There is 2 types of Xamarin, Xamarin Classic and Xamarin Forms. The differents are 
+There are 2 types of Xamarin, Xamarin Classic and Xamarin Forms. The differents are 
 
 * `Xamarin Classic`
   Using C# as logic languange but Xamarin Classic uses the platform specific language for the interface. Android is using XML, iOS is using story board, and Windows is using XAML.
@@ -49,6 +49,7 @@ There is 2 types of Xamarin, Xamarin Classic and Xamarin Forms. The differents a
 There are 2 types of Xamarin project styles. The main different of this two is
 
 * Shared Project
+
   You will see a lot of `if` when you want to do platform specific code.
 
   ```c#
@@ -62,6 +63,7 @@ There are 2 types of Xamarin project styles. The main different of this two is
   ```
 
 * PCL
+
   If you want to do platform specific code, you can't do something like `#if __ANDROID__`. You can create an interface to solve this and the implement it in each platform projects.
 
 ### Some Useful Links

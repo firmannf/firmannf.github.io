@@ -31,7 +31,7 @@ Very awesome, right? so just visit the Github Education Page in <a href="https:/
 <figure>
 	<a href="http://firmannf.github.io/images/Jetbrains.png"><img src="http://firmannf.github.io/images/Jetbrains.png" alt=""></a>
 </figure>
-if you need IDE for Java, PHP, Ruby, etc. you will interested with this Jetbrains program. Jetbrains give you access to their IDE products, like Intellij, CLion, PHPStorm, and many more. just visit <a href="https://www.jetbrains.com/student/" target="_blank">`https://www.jetbrains.com/student/`</a> to get yours.
+If you need IDE for Java, PHP, Ruby, etc. you will interested with this Jetbrains program. Jetbrains give you access to their IDE products, like Intellij, CLion, PHPStorm, and many more. Just visit <a href="https://www.jetbrains.com/student/" target="_blank">`https://www.jetbrains.com/student/`</a> to get yours.
 
 ## And then
-There are some program that can give you a sensation of paid tools and services. If you have some info about other programs, you can tell me in the comment box.
+These are some program that can give you a sensation of paid tools and services. If you have some info about other programs, you can tell me in the comment box.
