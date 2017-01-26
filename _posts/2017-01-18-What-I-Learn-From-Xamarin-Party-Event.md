@@ -64,7 +64,7 @@ There are 2 types of Xamarin project styles. The main different of this two is
 
 * PCL
 
-  If you want to do platform specific code, you can't do something like `#if __ANDROID__`. You can create an interface to solve this and the implement it in each platform projects.
+  If you want to do platform specific code, you can't do something like `#if __ANDROID__`. You can create an interface to solve this and then implement it in each platform projects.
 
 ### Some Useful Links
 I'm doing some research after this event and found some useful links, here they are
