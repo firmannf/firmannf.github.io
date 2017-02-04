@@ -6,12 +6,12 @@ tags: [CodeSharing, Git, Tools]
 comments: true
 ---
 
-## Background Problem
+### Background Problem
 I've been using Git since 3 years ago. I usually just create one branch called `master` (You must be familiar with it). Everything is fine when I work alone. There is different story when I work with the team. Too much code conflict, uncounted pull, integration error are some problems with just one branch exist. <!-- more --> When I was suffering and trying to looking for solution, I found a good reference. Thanks to <a href="http://nvie.com/posts/a-successful-git-branching-model/">`nvie.com`</a> that give me inspiration how to make a good branching model.
 
 <br/>
 
-## Based on My Experience
+### Based on My Experience
 I've tried some git branching model. Check the list below.
 
 * Push everything to master
@@ -24,7 +24,7 @@ I've tried some git branching model. Check the list below.
 
 <br/>
 
-## A Good Git Branching Model
+### A Good Git Branching Model
 There are two type of branch, main branch and supporting branch.
 
 * Main Branch
@@ -37,11 +37,13 @@ There are two type of branch, main branch and supporting branch.
 
 <br/>
 
-## Presentation File
+### Presentation File
 I've created a powerpoint for this. here it is, hope you enjoy.
 <center>
     <iframe src="https://onedrive.live.com/embed?cid=D6B4E1978EE2DE1B&resid=D6B4E1978EE2DE1B%213436&authkey=AMgMIIXKuGDsyNs&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
 </center>
+
+<br/>
 
 ### References
 
