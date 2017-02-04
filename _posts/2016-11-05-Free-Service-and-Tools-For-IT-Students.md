@@ -39,5 +39,7 @@ Very awesome, right? so just visit the Github Education Page in <a href="https:/
 </figure>
 If you need IDE for Java, PHP, Ruby, etc. you will interested with this Jetbrains program. Jetbrains give you access to their IDE products, like Intellij, CLion, PHPStorm, and many more. Just visit <a href="https://www.jetbrains.com/student/" target="_blank">`https://www.jetbrains.com/student/`</a> to get yours.
 
-### And then
+<br/>
+
+## And then
 These are some program that can give you a sensation of paid tools and services. If you have some info about other programs, you can tell me in the comment box.
