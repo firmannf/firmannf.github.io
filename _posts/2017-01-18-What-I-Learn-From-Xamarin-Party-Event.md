@@ -10,13 +10,13 @@ image:
   creditlink: https://limaapril.wordpress.com/2016/12/21/bandung-developer-day-5/
 ---
 
-## Bandung Developer Day #5
+### Bandung Developer Day #5
 Bandung developer day is an event for developers in Bandung. The purpose of this event is to share new knowledge for developers. In 20 Desember 2016, Fifth event of Bandung developer day was held. the topic is `Introduction to Xamarin`. <!-- more --> The speakers are Puja Pramudya and Albilaga from Radya Labs. There are 2 sessions, first session is Puja's stage to introducing Xamarin to the attendees and second session is workshop session delivered by Albilaga. We were creating CRM apps for workshop session.
 
-## What is Xamarin
+### What is Xamarin
 Xamarin is a set of tools for cross-platform development (Android, iOS, Windows) and the development language is C#.
 
-## Xamarin Classic Vs Xamarin Forms
+### Xamarin Classic Vs Xamarin Forms
 There are 2 types of Xamarin, Xamarin Classic and Xamarin Forms. The differents are 
 
 * `Xamarin Classic`
@@ -45,7 +45,7 @@ There are 2 types of Xamarin, Xamarin Classic and Xamarin Forms. The differents 
   * You will build apps that has not many platform API specific
   * If you want to code once (C# and XAML), run everywhere
 
-## PCL Vs Shared Project
+### PCL Vs Shared Project
 There are 2 types of Xamarin project styles. The main different of this two is
 
 * Shared Project
@@ -66,7 +66,7 @@ There are 2 types of Xamarin project styles. The main different of this two is
 
   If you want to do platform specific code, you can't do something like `#if __ANDROID__`. You can create an interface to solve this and then implement it in each platform projects.
 
-## Some Useful Links
+### Some Useful Links
 I'm doing some research after this event and found some useful links, here they are
 
 * <a href="http://university.xamarin.com" target="_blank">http://university.xamarin.com</a>

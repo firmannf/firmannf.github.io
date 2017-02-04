@@ -11,13 +11,13 @@ image:
 As IT student, Sometime we face a problem about paid services and tools and the price is not suitable for student. But don't worry, I have some information about the program that can give you free services and tools. you just need an email with your campus domain <!-- more --> and then just give it a try.
 **So, check the list below**.
 
-## Microsoft Imagine
+### Microsoft Imagine
 <figure>
 	<a href="http://firmannf.github.io/images/Imagine.png"><img src="http://firmannf.github.io/images/Imagine.png" alt=""></a>
 </figure>
 This program is created by Microsoft. In the past the program's name is **Microsoft DreamSpark**. This program give you access to some Microsoft product, such as Visual Studio, Microsoft Azure, Xamarin, and many more. For further information, you can visit <a href="https://imagine.microsoft.com" target="_blank">`https://imagine.microsoft.com`</a>
 
-## Github Student Pack
+### Github Student Pack
 <figure>
 	<a href="http://firmannf.github.io/images/Github.png"><img src="http://firmannf.github.io/images/Github.png" alt=""></a>
 </figure>
@@ -27,11 +27,11 @@ Github collaborates with their partners and give you access to some Github and t
 
 Very awesome, right? so just visit the Github Education Page in <a href="https://education.github.com/" target="_blank">`https://education.github.com/`</a>
 
-## Jetbrains Student Program
+### Jetbrains Student Program
 <figure>
 	<a href="http://firmannf.github.io/images/Jetbrains.png"><img src="http://firmannf.github.io/images/Jetbrains.png" alt=""></a>
 </figure>
 If you need IDE for Java, PHP, Ruby, etc. you will interested with this Jetbrains program. Jetbrains give you access to their IDE products, like Intellij, CLion, PHPStorm, and many more. Just visit <a href="https://www.jetbrains.com/student/" target="_blank">`https://www.jetbrains.com/student/`</a> to get yours.
 
-## And then
+### And then
 These are some program that can give you a sensation of paid tools and services. If you have some info about other programs, you can tell me in the comment box.
