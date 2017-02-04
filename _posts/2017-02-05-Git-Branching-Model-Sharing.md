@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git Branching Model #CodeSharing"
+title: "A Good Git Branching Model #CodeSharing"
 description: "Sharing session in UNIKOM CodeLabs Division about how to make a good git branching model"
 tags: [CodeSharing, Git, Tools]
 comments: true
