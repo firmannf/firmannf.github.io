@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Introduction to TF-IDF"
-description: "A little explanation about TF-IDF"
-tags: [Text Mining, Machine Learning]
+title: "Hello Kotlin, Nice to Meet You!"
+description: "My first experience using Kotlin to make a simple android app"
+tags: [Android, Kotlin, Android Studio]
 comments: true
 ---
 

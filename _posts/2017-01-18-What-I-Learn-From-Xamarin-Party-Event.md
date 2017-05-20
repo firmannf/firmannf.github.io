@@ -2,7 +2,7 @@
 layout: post
 title: "What I Learn From Xamarin Party Event"
 description: "A story that I want to share after attending Xamarin Party in Bandung"
-tags: [Android, Xamarin, C#]
+tags: [Xamarin, Android, iOS, C#]
 comments: true
 image:
   feature: xamarin-party.jpg
