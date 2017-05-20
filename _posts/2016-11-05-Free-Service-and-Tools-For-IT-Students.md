@@ -8,12 +8,13 @@ image:
   feature: girl-with-laptop.jpg
 ---
 
+### Good News for Us
 As IT student, Sometime we face a problem about paid services and tools and the price is not suitable for student. But don't worry, I have some information about the program that can give you free services and tools. you just need an email with your campus domain <!-- more --> and then just give it a try.
 **So, check the list below**.
 
 <br/>
 
-## Microsoft Imagine
+### Microsoft Imagine
 <figure>
 	<a href="http://firmannf.github.io/images/Imagine.png"><img src="http://firmannf.github.io/images/Imagine.png" alt=""></a>
 </figure>
@@ -21,7 +22,7 @@ This program is created by Microsoft. In the past the program's name is **Micros
 
 <br/>
 
-## Github Student Pack
+### Github Student Pack
 <figure>
 	<a href="http://firmannf.github.io/images/Github.png"><img src="http://firmannf.github.io/images/Github.png" alt=""></a>
 </figure>
@@ -33,7 +34,7 @@ Very awesome, right? so just visit the Github Education Page in <a href="https:/
 
 <br/>
 
-## Jetbrains Student Program
+### Jetbrains Student Program
 <figure>
 	<a href="http://firmannf.github.io/images/Jetbrains.png"><img src="http://firmannf.github.io/images/Jetbrains.png" alt=""></a>
 </figure>
@@ -41,5 +42,5 @@ If you need IDE for Java, PHP, Ruby, etc. you will interested with this Jetbrain
 
 <br/>
 
-## And then
+### And then
 These are some program that can give you a sensation of paid tools and services. If you have some info about other programs, you can tell me in the comment box.
