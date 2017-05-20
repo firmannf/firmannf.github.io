@@ -20,18 +20,18 @@ Xamarin is a set of tools for cross-platform development (Android, iOS, Windows)
 
 <br/>
 
-### Xamarin Classic Vs Xamarin Forms
-There are 2 types of Xamarin, Xamarin Classic and Xamarin Forms. The differents are 
+### Xamarin Native Vs Xamarin Forms
+There are 2 types of Xamarin, Xamarin Native and Xamarin Forms. The differents are 
 
-* `Xamarin Classic`
-  Using C# as logic languange but Xamarin Classic uses the platform specific language for the interface. Android is using XML, iOS is using story board, and Windows is using XAML.
+* `Xamarin Native`
+  Using C# as logic languange but Xamarin Native uses the platform specific language for the interface. Android is using XML, iOS is using story board, and Windows is using XAML.
   <center>
     <figure>
       <a href="{{ site.url }}/images/xamarin-classic-figure.png"><img src="{{ site.url }}/images/xamarin-classic-figure.png" alt=""></a>
     </figure>
   </center>
 
-  When you should use Xamarin Classic ?
+  When you should use Xamarin Native ?
   
   * You will build apps that has many platform API specific
   * Custom UI is number one
