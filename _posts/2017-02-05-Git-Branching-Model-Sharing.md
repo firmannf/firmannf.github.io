@@ -7,7 +7,7 @@ comments: true
 ---
 
 ### Background Problem
-I've been using Git since 3 years ago. I usually just create one branch called `master` (You must be familiar with it). Everything is fine when I work alone. There is different story when I work with the team. Too much code conflict, uncounted pull, integration error are some problems with just one branch exist. <!-- more --> When I was suffering and trying to looking for solution, I found a good reference. Thanks to <a href="http://nvie.com/posts/a-successful-git-branching-model/">`nvie.com`</a> that give me inspiration how to make a good branching model.
+For sharing session in UNIKOM CodeLabs division, I will share my story about using Git. I've been using Git since 3 years ago. I usually just create one branch called `master` (You must be familiar with it). Everything is fine when I work alone. There is different story when I work with the team. Too much code conflict, uncounted pull, integration error are some problems with just one branch exist. <!-- more --> When I was suffering and trying to looking for solution, I found a good reference. Thanks to <a href="http://nvie.com/posts/a-successful-git-branching-model/">`nvie.com`</a> that give me inspiration how to make a good branching model.
 
 <br/>
 

@@ -7,7 +7,7 @@ comments: true
 ---
 
 ### Kotlin ?
-By the way I'm hearing about Kotlin at the end of 2016. I just saw a sample code from <a href="https://github.com/budioktaviyan/kotlin-android" target="_blank">Budi Oktaviyan's GitHub repository</a>. I'm not interested enough to trying Kotlin, because I just can't move on from Java that time. <!-- more --> I just know that Kotlin can be used for android development, that's all. And... this week, in Google I/O 2017, Google announced that they will officially support Kotlin for android development and it change my mind to trying Kotlin.
+By the way, I'm hearing about Kotlin at the end of 2016. I just saw a sample code from <a href="https://github.com/budioktaviyan/kotlin-android" target="_blank">Budi Oktaviyan's GitHub repository</a>. I'm not interested enough to trying Kotlin, because I just can't move on from Java that time. <!-- more --> I just know that Kotlin can be used for android development, that's all. And... this week, in Google I/O 2017, Google announced that they will officially support Kotlin for android development and it change my mind to trying Kotlin.
 
 <br/>
 
