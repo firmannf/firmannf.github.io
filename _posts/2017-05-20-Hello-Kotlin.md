@@ -12,7 +12,7 @@ By the way, I'm hearing about Kotlin at the end of 2016. I just saw a sample cod
 <br/>
 
 ### Try Kotlin for The First Time
-In the other dimension, Android Studio 3.0 released in canary channel that support Kotlin language without installing Kotlin plugin again. I'm using it for my first ever android app that using Kotlin. I just make a simple app that contains a button to show a toast LOL. You can visit my GitHub repository to check <a href="https://github.com/firmannf/try-android-hello-kotlin" target="_blank">the project</a>. After successfully creating the project, I compare the code for showing a toast beetween Kotlin and Java.
+In the other dimension, Android Studio 3.0 released in canary channel that support Kotlin language without installing Kotlin plugin again. I'm using it for my first ever android app that using Kotlin. I just make a simple app that contains a button to show a toast LOL. You can visit my GitHub repository to check <a href="https://github.com/firmannf/try-android-hello-kotlin" target="_blank">the project</a>. After successfully creating the project, I compare the code for showing a toast between Kotlin and Java.
 
 #### Kotlin
 <script src="https://gist.github.com/firmannf/fe78ed6eb0e75ad8023db78e194283c1.js"></script>
