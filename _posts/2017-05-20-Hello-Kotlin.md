@@ -20,7 +20,7 @@ In the other dimension, Android Studio 3.0 released in canary channel that suppo
 #### Java
 <script src="https://gist.github.com/firmannf/4ea3799bdf32499fba249e1438339397.js"></script>
 
-The kotlin code is more concise than the Java code and I think the kotlin code is more clear and pretty. That's a nice one. Because my curiosity increased, I search for other resources to learn more Kotlin and I find a good news that Kotlin is work seamlessly with Java. Here is the statement from the <a hred="https://developer.android.com/kotlin/faq.html" target="_blank">FAQ page</a>.
+The kotlin code is more concise than the Java code and I think the kotlin code is more clear and pretty. That's a nice one. Because my curiosity increased, I search for other resources to learn more Kotlin and I find a good news that Kotlin is working seamlessly with Java. Here is the statement from the <a hred="https://developer.android.com/kotlin/faq.html" target="_blank">FAQ page</a>.
 
 > It works with the Java language seamlessly, so it makes it easy for developers who love the Java language to keep using it but also incrementally add Kotlin code and leverage Kotlin libraries.
 
